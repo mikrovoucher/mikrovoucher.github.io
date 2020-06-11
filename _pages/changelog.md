@@ -35,7 +35,7 @@ Abnormal and formidable against much the before well improper more spent far her
 ### `Initial Release`
 # **Version 1.0**
 Release pertama kali dengan feature yang banyak
-[x] Todo
+- [x] Todo
 
 
 
