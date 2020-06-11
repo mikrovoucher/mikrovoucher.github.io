@@ -11,7 +11,7 @@ presskit_download_link                    : https://mikrovoucher.github.io      
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Mikrotik Voucher                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Rp. 100.000                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Mikrotik Voucher mempermudah anda dalam berbisnis voucher internet
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
