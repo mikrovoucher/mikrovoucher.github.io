@@ -37,7 +37,7 @@ Release pertama kali dengan feature yang banyak
 - [x] Delete User Hotspot
 - [x] Show All User Hotspot
 - [x] Cetak Random
-- [ ] Remove Host User
+- [x] Remove Host User
 - [x] Pencarian, Show QR Code, Cetak ,
 ## Simpan PDF QR CODE ( Single, Multiple)
 - [x] Single
