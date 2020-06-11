@@ -17,6 +17,7 @@ Release pertama kali dengan feature yang banyak
 - Remove Profile Hotspot
 - Edit Profile Hotspot
 - Ge All Profile Hotspot
+
 ### Cetak Voucher
 - Add User Hotspot
 - Edit User Hotspot
@@ -24,13 +25,15 @@ Release pertama kali dengan feature yang banyak
 - Show All User Hotspot
 - Cetak Random
 - Remove Host User
-- Pencarian, Show QR Code, Cetak ,
+- Pencarian, Show QR Code, Cetak
+
 ### Simpan PDF QR CODE ( Single, Multiple)
 - Single
 - Multiple
-#### Cetak With BLE Bluetoth
+
+### Cetak With BLE Bluetoth
 - Android
-- [ ] IOS
+
 ### Pengaturan
 - Add Router
 - Set Template Hotspot
