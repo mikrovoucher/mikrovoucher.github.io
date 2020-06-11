@@ -32,9 +32,6 @@ Abnormal and formidable against much the before well improper more spent far her
 
 <br>
 
-________
-<br>
-
 ### `Initial Release`
 # **Version 1.0**
 Release pertama kali dengan feature yang banyak
