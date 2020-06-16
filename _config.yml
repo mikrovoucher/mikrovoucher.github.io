@@ -5,7 +5,7 @@ page_title                                : MikrotikVoucher Hotspot             
 # ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://drive.google.com/file/d/1N2BbHt-7wS7Azk1yO_r56mkpHaXf08X_/view?usp=sharing                                    # Enter Google Play Store URL.
+playstore_link                            : https://drive.google.com/drive/folders/1xWgCqEdWSc0Ky1TqnINOAVXj1Q974cFJ?usp=sharing                                 # Enter Google Play Store URL.
 playstore_link_m                          : https://drive.google.com/file/d/1aBXUUVwEznHKnvk9DVl6Y2TWyGnvpHsY/view?usp=sharing                                    # Enter Google Play Store URL.
 presskit_download_link                    : https://mikrovoucher.github.io                                            # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
